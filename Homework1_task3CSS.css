@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#bold{
+    font-weight: bold;
+}
+#HTML{
+    border-bottom: dotted;
+}
+#code{
+    background-color: rgb(142, 138, 138);
+}
+#tags > span{
+    background-color: rgb(142, 138, 138);
+    margin: 5px;
+    padding: 2px;
+}
+#italic{
+    font-style: italic;
+}
